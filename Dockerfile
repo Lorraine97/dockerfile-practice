@@ -1,4 +1,4 @@
-# Docker file for individual assignment 4
+# Dockerfile for individual assignment 4
 # Xinru Lu | Dec 9, 2022
 
 # use jupyter/minimal-notebook as the base image and
