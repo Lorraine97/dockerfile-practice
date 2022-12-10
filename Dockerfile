@@ -1,6 +1,5 @@
 # Dockerfile for individual assignment 4
 # Xinru Lu | Dec 9, 2022
-# test
 
 # use jupyter/minimal-notebook as the base image and
 FROM jupyter/minimal-notebook
